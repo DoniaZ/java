@@ -1,0 +1,13 @@
+p {
+background-color: beige;
+}
+.case {
+    margin: 4px;
+    display: table-cell;
+    border: solid black 2px;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    font-size: 3em;
+    vertical-align: middle;
+}
